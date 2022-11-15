@@ -14,4 +14,4 @@
 
 
 
-    [Patika](https://patika.dev)
+    [Patika](www.patika.dev)
